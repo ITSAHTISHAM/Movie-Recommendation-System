@@ -8,7 +8,7 @@ Collaborative Filtering: This approach builds a model based on the user's past b
 
 Content-Based Filtering: This approach utilizes discrete characteristics of an item to recommend additional items with similar properties. It relies on a description of the item and the user's preferences to make recommendations based on the user's past choices.
 
-This project focuses on developing a basic recommendation system using Python and Pandas. The system will suggest items (movies) that are most similar to a particular movie chosen by the user.
+This project focuses on developing a basic recommendation system using Python and Pandas. The system will suggest movies that are most similar to a particular movie chosen by the user.
 
 ## Features
 
